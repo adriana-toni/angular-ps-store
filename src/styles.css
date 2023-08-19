@@ -9,12 +9,11 @@
 }
 
 body {
-  background: rgb(2, 0, 36);
+  background: rgb(193, 240, 220);
   background: linear-gradient(
     90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(0, 74, 255, 1) 35%,
-    /* rgba(9, 9, 121, 1) 35%*/ rgba(226, 7, 7, 1) 100%
-      /* rgba(9, 9, 121, 1) 100%*/
+    rgba(193, 240, 220, 1) 0%,
+    rgba(221, 224, 152, 1) 45%,
+    rgba(238, 169, 184, 1) 100%
   );
 }
