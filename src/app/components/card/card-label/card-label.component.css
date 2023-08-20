@@ -1,14 +1,14 @@
 .card-label__container {
-  positive: absolute;
+  position: absolute;
   bottom: 90px;
   right: 0;
 }
 
-.card-labe__content {
+.card-label__content {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #0d0d0d;
+  background-color: #0d0d0d50;
   color: white;
   font-size: 12px;
   font-family: "Segoe UI";
